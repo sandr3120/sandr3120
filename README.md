@@ -41,6 +41,3 @@ Here are some ideas to get you started:
 ## Connect with Me
 - 📫 [LinkedIn](www.linkedin.com/in/sandramanoj3120)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandr3120&show_icons=true&theme=radical)
-
