@@ -42,5 +42,5 @@ Here are some ideas to get you started:
 - 📫 [LinkedIn](www.linkedin.com/in/sandramanoj3120)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?sandr3120=sandr3120&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandr3120&show_icons=true&theme=radical)
 
