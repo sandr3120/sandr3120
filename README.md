@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 Curious coder passionate about building web solutions and exploring new technologies.
+Welcome to my GitHub profile! I’m a passionate developer with a love for web development, ui/ux design and learning new technologies. Here, you’ll find a collection of my projects, ranging from  full-stack applications to machine learning models.
 
 ## Skills & Technologies
 - **Languages:** JavaScript, Python, SQL
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ## Current Projects
 - 🌱 Building a [Job Hunting Web Application](#)
-- 🔍 Exploring customer segmentation using data analysis
+- 🔭 Exploring customer segmentation using data analysis
 
 ## Previous Work
 - Developed a Hotel Management System using Java.
