@@ -34,6 +34,16 @@ Here are some ideas to get you started:
 - 📚 Enhancing my knowledge of data science and machine learning.
 - 💡 Diving deeper into Angular for building dynamic web applications.
 
+## Repository Topics
+### Projects:
+- Topics Used: project-repository
+  - 🎓 College-related: major-project, mini-project
+  - 🧩 Others: related-course
+### Practice Works:
+- Topics used: practice-programming, related-course
+### Self:
+- Topics used: personal
+
 ## Interests
 - ✍️ Drawing and exploring the cosmos.
 - 📖 Reading about technology and fiction.
